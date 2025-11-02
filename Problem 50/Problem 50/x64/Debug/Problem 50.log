@@ -1,0 +1,4 @@
+﻿  Problem 50.cpp
+C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 50\Problem 50.cpp(25,23): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 50\Problem 50.cpp(160,1): warning C4715: 'DeleteClientAccount' : les chemins de contrôle ne retournent pas tous une valeur
+  Problem 50.vcxproj -> C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 50\x64\Debug\Problem 50.exe

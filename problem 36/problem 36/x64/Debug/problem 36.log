@@ -1,0 +1,3 @@
+﻿  problem 36.cpp
+C:\Users\charaf eddine jador\Desktop\c++ Level-3\problem 36\problem 36.cpp(25,23): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  problem 36.vcxproj -> C:\Users\charaf eddine jador\Desktop\c++ Level-3\problem 36\x64\Debug\problem 36.exe

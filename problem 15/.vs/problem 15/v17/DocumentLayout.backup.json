@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\problem 15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45AEB17A-4073-40B8-938E-CE046B89C766}|problem 15.vcxproj|C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\problem 15\\problem 15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45AEB17A-4073-40B8-938E-CE046B89C766}|problem 15.vcxproj|solutionrelative:problem 15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem 15.cpp",
+              "DocumentMoniker": "C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\problem 15\\problem 15.cpp",
+              "RelativeDocumentMoniker": "problem 15.cpp",
+              "ToolTip": "C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\problem 15\\problem 15.cpp",
+              "RelativeToolTip": "problem 15.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-14T21:31:16.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

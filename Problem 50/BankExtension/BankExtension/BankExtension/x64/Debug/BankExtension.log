@@ -1,0 +1,6 @@
+﻿  BankExtension.cpp
+C:\Users\charaf eddine jador\Desktop\BankExtension\BankExtension\BankExtension.cpp(38,23): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+C:\Users\charaf eddine jador\Desktop\BankExtension\BankExtension\BankExtension.cpp(280,23): warning C4834: abandon de la valeur de retour de la fonction avec l’attribut [[nodiscard]]
+C:\Users\charaf eddine jador\Desktop\BankExtension\BankExtension\BankExtension.cpp(277,1): warning C4715: 'DeletClientByAccountNumber' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\charaf eddine jador\Desktop\BankExtension\BankExtension\BankExtension.cpp(317,1): warning C4715: 'UpdateClientByAccountNumber' : les chemins de contrôle ne retournent pas tous une valeur
+  BankExtension.vcxproj -> C:\Users\charaf eddine jador\Desktop\BankExtension\BankExtension\x64\Debug\BankExtension.exe

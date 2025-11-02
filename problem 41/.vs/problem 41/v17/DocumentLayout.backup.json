@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\problem 41\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72C59812-F33B-46B5-9F7C-EB1C5F8B8CA8}|problem 41.vcxproj|C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\problem 41\\problem 41.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72C59812-F33B-46B5-9F7C-EB1C5F8B8CA8}|problem 41.vcxproj|solutionrelative:problem 41.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem 41.cpp",
+              "DocumentMoniker": "C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\problem 41\\problem 41.cpp",
+              "RelativeDocumentMoniker": "problem 41.cpp",
+              "ToolTip": "C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\problem 41\\problem 41.cpp*",
+              "RelativeToolTip": "problem 41.cpp*",
+              "ViewState": "AgIAADAAAAAAAAAAAADwvy0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T19:04:59.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

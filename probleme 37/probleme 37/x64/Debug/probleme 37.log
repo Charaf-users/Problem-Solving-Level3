@@ -1,0 +1,4 @@
+﻿  probleme 37.cpp
+C:\Users\charaf eddine jador\Desktop\c++ Level-3\probleme 37\probleme 37.cpp(23,23): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+C:\Users\charaf eddine jador\Desktop\c++ Level-3\probleme 37\probleme 37.cpp(51,23): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  probleme 37.vcxproj -> C:\Users\charaf eddine jador\Desktop\c++ Level-3\probleme 37\x64\Debug\probleme 37.exe

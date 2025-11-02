@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\probleme 9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00E698BF-87D5-41A1-8E84-626B59B45799}|probleme 9.vcxproj|C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\probleme 9\\probleme 9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00E698BF-87D5-41A1-8E84-626B59B45799}|probleme 9.vcxproj|solutionrelative:probleme 9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "probleme 9.cpp",
+              "DocumentMoniker": "C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\probleme 9\\probleme 9.cpp",
+              "RelativeDocumentMoniker": "probleme 9.cpp",
+              "ToolTip": "C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\probleme 9\\probleme 9.cpp",
+              "RelativeToolTip": "probleme 9.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T17:10:18.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

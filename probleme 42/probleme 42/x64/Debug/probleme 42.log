@@ -1,0 +1,4 @@
+﻿  probleme 42.cpp
+C:\Users\charaf eddine jador\Desktop\c++ Level-3\probleme 42\probleme 42.cpp(13,12): warning C4267: 'initialisation' : conversion de 'size_t' en 'short', perte possible de données
+C:\Users\charaf eddine jador\Desktop\c++ Level-3\probleme 42\probleme 42.cpp(17,16): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  probleme 42.vcxproj -> C:\Users\charaf eddine jador\Desktop\c++ Level-3\probleme 42\x64\Debug\probleme 42.exe

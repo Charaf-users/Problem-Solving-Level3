@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\Problem 44\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B29C1D4-ED5F-4A59-B53F-24FDE246200E}|Problem 44.vcxproj|C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\Problem 44\\Problem 44.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B29C1D4-ED5F-4A59-B53F-24FDE246200E}|Problem 44.vcxproj|solutionrelative:Problem 44.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem 44.cpp",
+              "DocumentMoniker": "C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\Problem 44\\Problem 44.cpp",
+              "RelativeDocumentMoniker": "Problem 44.cpp",
+              "ToolTip": "C:\\Users\\charaf eddine jador\\Desktop\\c\u002B\u002B Level-3\\Problem 44\\Problem 44.cpp*",
+              "RelativeToolTip": "Problem 44.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-18T11:54:09.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+﻿  Problem 27.cpp
+C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,9): error C2664: 'int isupper(int)' : impossible de convertir l'argument 1 de 'std::string' en 'int'
+      C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,17):
+      Aucun opérateur de conversion définie par l'utilisateur disponible qui puisse effectuer cette conversion, ou l'opérateur ne peut pas être appelé
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\ctype.h(33,56):
+      voir la déclaration de 'isupper'
+      C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,9):
+      lors de la tentative de mise en correspondance de la liste des arguments '(std::string)'
+  
+C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,27): error C2664: 'int tolower(int)' : impossible de convertir l'argument 1 de 'std::string' en 'int'
+      C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,35):
+      Aucun opérateur de conversion définie par l'utilisateur disponible qui puisse effectuer cette conversion, ou l'opérateur ne peut pas être appelé
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\ctype.h(66,56):
+      voir la déclaration de 'tolower'
+      C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,27):
+      lors de la tentative de mise en correspondance de la liste des arguments '(std::string)'
+  
+C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,45): error C2664: 'int toupper(int)' : impossible de convertir l'argument 1 de 'std::string' en 'int'
+      C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,53):
+      Aucun opérateur de conversion définie par l'utilisateur disponible qui puisse effectuer cette conversion, ou l'opérateur ne peut pas être appelé
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\ctype.h(63,56):
+      voir la déclaration de 'toupper'
+      C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,45):
+      lors de la tentative de mise en correspondance de la liste des arguments '(std::string)'
+  
+C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,2): error C2440: 'return' : impossible de convertir de '_T' en 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,2): error C2440:         with
+C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,2): error C2440:         [
+C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,2): error C2440:             _T=int
+C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,2): error C2440:         ]
+      C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,2):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' : aucune fonction surchargée n’a pu convertir tous les types d’arguments.
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(744,5):
+          est peut-être 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )'
+          with
+          [
+              _Elem=char
+          ]
+              C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,2):
+              'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )' : impossible de convertir l'argument 1 de '_T' en 'const _Elem *const '
+          with
+          [
+              _Elem=char
+          ]
+          and
+          [
+              _T=int
+          ]
+          and
+          [
+              _Elem=char
+          ]
+                  C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,16):
+                  La conversion d'un type intégral en un type pointeur nécessite un reinterpret_cast, un cast de style C ou un cast de style fonction entre parenthèses.
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(1316,5):
+          ou       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,2):
+              'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)' : impossible de convertir l'argument 1 de '_T' en 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _T=int
+          ]
+          and
+          [
+              _Elem=char
+          ]
+                  C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,16):
+                  La conversion requiert un second constructeur ou opérateur de conversion défini par l'utilisateur
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(774,5):
+          ou       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(_Iter,_Iter,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+          C:\Users\charaf eddine jador\Desktop\c++ Level-3\Problem 27\Problem 27.cpp(17,2):
+          lors de la tentative de mise en correspondance de la liste des arguments '(_T)'
+          with
+          [
+              _T=int
+          ]
+  
